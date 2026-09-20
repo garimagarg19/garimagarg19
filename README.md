@@ -74,4 +74,6 @@ A logistics application with user and driver functionality, real-time location t
 
 🔗 [LinkedIn](https://www.linkedin.com/in/garima-garg-8b90b6240)
 
+📧 [Email](mailto:garimagarg057@gmail.com)
+
 📍 Hisar, Haryana, India
